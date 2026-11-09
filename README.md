@@ -26,8 +26,6 @@ sql-data-warehouse-project/
 
 The project reads the six files from `C:\sql\dwh_project\01_datasets\`. Put the folder there, or change the six paths in `03_scripts/bronze/proc_load_bronze.sql`. The videos show the folders without numbers: `datasets` there is `01_datasets` here, `scripts` is `03_scripts`.
 
-<details>
-<summary><b>The 45 chapters</b>: the minute in the video and the files of each one</summary>
 
 
 ---
