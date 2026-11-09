@@ -1,8 +1,5 @@
 # Data Warehouse and Analytics Project
 
-
-.
-
 ⭐ If this project helps you, star the repository so other learners can find it too.
 
 You take raw files from two systems, a CRM and an ERP, and build one data warehouse in SQL Server. At the end, the data is clean and ready for analysis.
